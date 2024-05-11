@@ -12,11 +12,11 @@ Make sure you have the following installed on your system:
 - Django REST Framework [version]
 
 ### Installation
-Clone the repository: ```git clone https://github.com/duongtrongchi/IMDB-API.git```
-Navigate to the project directory: IMDB-API
-Install dependencies: ```pip install -r requirements.txt```
-Apply migrations: ```python manage.py migrate```
-Start the development server: ```python manage.py runserver```
+1. Clone the repository: ```git clone https://github.com/duongtrongchi/IMDB-API.git```
+2. Navigate to the project directory: IMDB-API
+3. Install dependencies: ```pip install -r requirements.txt```
+4. Apply migrations: ```python manage.py migrate```
+5. Start the development server: ```python manage.py runserver```
 
 ## Project Structure
 Here's an overview of the project's structure:
